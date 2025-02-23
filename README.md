@@ -1,2 +1,1 @@
-BookBot lesson from Boot dot Dev.
-It conatins dictionaries, sets, for loops, f strings and isalpha
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
